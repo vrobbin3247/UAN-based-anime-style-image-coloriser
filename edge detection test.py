@@ -3,6 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
 import os
+import matplotlib
+matplotlib.use('TkAgg')  # or 'Qt5Agg' if you have Qt installed
 
 
 class EdgeDetectionComparison:
@@ -191,27 +193,21 @@ def main():
     print("=" * 40)
 
     # Get image path from user
-    image_path = input("Enter the path to your image: ").strip()
+    image_path = "/Users/vaibhavmandavkar/PycharmProjects/uan/data/anime.jpg"
 
-    try:
-        # Create comparison object
-        detector = EdgeDetectionComparison(image_path)
+    # Create comparison object
+    detector = EdgeDetectionComparison(image_path)
 
-        # Show basic comparison
-        print("\nShowing basic comparison...")
-        detector.compare_algorithms()
+    # Show basic comparison
+    print("\nShowing basic comparison...")
+    detector.compare_algorithms()
 
-        # Ask if user wants interactive comparison
-        choice = input("\nWould you like to try interactive comparison with sliders? (y/n): ").strip().lower()
+    # Ask if user wants interactive comparison
 
-        if choice == 'y':
-            print("Starting interactive comparison...")
-            detector.interactive_comparison()
+    print("Starting interactive comparison...")
+    detector.interactive_comparison()
 
-    except Exception as e:
-        print(f"Error: {e}")
-        print("\nMake sure you have the required libraries installed:")
-        print("pip install opencv-python matplotlib numpy")
+
 
 
 # Example usage for testing
