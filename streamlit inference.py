@@ -7,6 +7,8 @@ import io
 import base64
 import json
 from colorization_model import ColorizationModel
+import os
+os.environ["STREAMLIT_SUPPRESS_WATCHER_WARNINGS"] = "true"
 
 # Page configuration
 st.set_page_config(
