@@ -1,3 +1,13 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uan-based-anime-style-image-colorizer.streamlit.app/)
+
+![Python](https://img.shields.io/badge/Python-3.12.2-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.42.1-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-orange)
+![GitHub Stars](https://img.shields.io/github/stars/vrobbin3247/UAN-based-anime-style-image-coloriser?style=social)
+![Forks](https://img.shields.io/github/forks/vrobbin3247/UAN-based-anime-style-image-coloriser=social)
+![Last Commit](https://github.com/vrobbin3247/UAN-based-anime-style-image-coloriser)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/vrobbin3247/UAN-based-anime-style-image-coloriser/blob/main/LICENSE)
+
 # Anime Sketch Colorization with U-Net
 
 A deep learning project that automatically colorizes anime sketches using a custom U-Net architecture. The model takes grayscale sketches and color scribbles as input to generate fully colorized anime characters.
