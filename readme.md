@@ -4,8 +4,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.42.1-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-orange)
 ![GitHub Stars](https://img.shields.io/github/stars/vrobbin3247/UAN-based-anime-style-image-coloriser?style=social)
-![Forks](https://img.shields.io/github/forks/vrobbin3247/UAN-based-anime-style-image-coloriser=social)
-![Last Commit](https://github.com/vrobbin3247/UAN-based-anime-style-image-coloriser)
+![Forks](https://img.shields.io/github/forks/vrobbin3247/UAN-based-anime-style-image-coloriser?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/vrobbin3247/UAN-based-anime-style-image-coloriser)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/vrobbin3247/UAN-based-anime-style-image-coloriser/blob/main/LICENSE)
 
 # Anime Sketch Colorization with U-Net
