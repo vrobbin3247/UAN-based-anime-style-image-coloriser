@@ -10,9 +10,9 @@ This project implements an end-to-end pipeline for anime sketch colorization usi
 
 | Input Sketch                        | Color Scribbles                            | Ground Truth                                  | Model Output                         |
 |-------------------------------------|--------------------------------------------|-----------------------------------------------|--------------------------------------|
-| ![Sketch 1](images/naruto edge.jpg) | ![Scribbles 1](images/naruto scribble.jpg) | ![Ground Truth 1](images/naruto original.jpg) | ![Output 1](images/naruto generated.jpg) |
-| ![Sketch 2](images/maomao edge.jpg) | ![Scribbles 2](images/maomao scribble.jpg) | ![Ground Truth 2](images/maomao original.jpg) | ![Output 2](images/maomao output.jpg)|
-| ![Sketch 2](images/uzui edge.jpg)   | ![Scribbles 2](images/uzui scribble.jpg) | ![Ground Truth 2](images/uzui original.jpg) | ![Output 2](images/uzui output.jpg)|
+| ![Sketch 1](images/naruto_edge.jpg) | ![Scribbles 1](images/naruto_scribble.jpg) | ![Ground Truth 1](images/naruto_original.jpg) | ![Output 1](images/naruto_generated.jpg) |
+| ![Sketch 2](images/maomao_edge.jpg) | ![Scribbles 2](images/maomao_scribble.jpg) | ![Ground Truth 2](images/maomao_original.jpg) | ![Output 2](images/maomao_output.jpg)|
+| ![Sketch 2](images/uzui_edge.jpg)   | ![Scribbles 2](images/uzui_scribble.jpg) | ![Ground Truth 2](images/uzui_original.jpg) | ![Output 2](images/uzui_output.jpg)|
 
 ## Architecture
 
