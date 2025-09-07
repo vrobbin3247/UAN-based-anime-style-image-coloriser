@@ -218,7 +218,7 @@ def run_inference_on_uploaded_images():
 
     # Visualize results
     visualize_results(sketch_path, scribbles_path, target_path, predicted_image,
-                      save_path="inference_result.png")
+                      save_path="images/inference_result.png")
 
     print("Inference completed! Check the visualization above.")
 
