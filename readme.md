@@ -1,5 +1,6 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uan-based-anime-style-image-colorizer.streamlit.app/)
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fvrobbin3247%2FUAN-based-anime-style-image-coloriser&label=views&icon=github&color=%23198754&message=&style=flat-square&tz=UTC)
 ![Python](https://img.shields.io/badge/Python-3.12.2-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.42.1-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-orange)
